@@ -1,8 +1,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazuki47&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazuki47&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazuki47&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazuki47&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazuki47&theme=dracula&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazuki47&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazuki47&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazuki47&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazuki47&theme=monokai&utcOffset=9)
 
 ### Languages & Frameworks
 ![](https://skillicons.dev/icons?i=python,js,ts,vue,html,css,react,nextjs,express,nestjs)
