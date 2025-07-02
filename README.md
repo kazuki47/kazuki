@@ -11,4 +11,4 @@
 ![](https://skillicons.dev/icons?i=react,nextjs,express,nestjs,dotnet,flask,fastapi,tailwind)
 
 ### Torophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazuki47&thema=dracula&margin-w=15&margin-h=15&row=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazuki47&thema=dracula&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
