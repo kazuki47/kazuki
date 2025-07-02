@@ -4,9 +4,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazuki47&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazuki47&theme=monokai&utcOffset=9)
 
-### Languages & Frameworks
-![](https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,express,nestjs)
+### Languages
+![](https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,html,css,matlab)
 
+### Frameworks
+![](https://skillicons.dev/icons?i=react,nextjs,express,nestjs,dotnet,flask,fastapi,tailwind)
 
 ### Torophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazuki47&thema=dracula&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
