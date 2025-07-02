@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazuki47&theme=monokai&utcOffset=9)
 
 ### Languages & Frameworks
-![](https://skillicons.dev/icons?i=python,js,ts,vue,html,css,react,nextjs,express,nestjs)
+![](https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,express,nestjs)
 
 
 ### Torophy
